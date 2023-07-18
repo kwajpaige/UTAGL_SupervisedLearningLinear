@@ -1,6 +1,8 @@
 # UTAGL_SupervisedLearningLinear
 The purose of this project is to understand  the various techniques for cleaning raw data, to build models to capture the relationships between variables and a known outcome that is continuous in nature, and to gain business insights from the model.
 
+Link to jupyter notebook: https://github.com/kwajpaige/UTAGL_SupervisedLearningLinear/blob/main/PaigeSingleton_SupervisedLearningRegression_June2022.ipynb
+
 ## Background
 There is a huge demand for used cars in the Indian Market today. As sales of new cars have slowed down in the recent past, the pre-owned car market has continued to grow over the past years and is larger than the new car market now. Cars4U is a budding tech start-up that aims to find footholes in this market.
 
